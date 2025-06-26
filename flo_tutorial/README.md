@@ -47,7 +47,7 @@ Flo provides articles and health tips to guide your cycle and lifestyle.
 
 ## 📚 Step 7: Explore Flo Insights
 You can also take quizzes, track mood, and get advice.  
-![Insights](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_tips.jpg.jpg?raw=true)
+![Insights](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_tutorial/screenshots/flo_tips.jpg.jpg?raw=true)
 
 ---
 
