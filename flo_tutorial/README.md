@@ -17,7 +17,7 @@ Tap install and open the app.
 ## 🏠 Step 2: Explore the Dashboard
 This is the main screen when you open the app.  
 You can view your calendar, cycle predictions, and more.  
-![Dashboard](screenshots/flo_dashboard.jpg)
+![Dashboard](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_dashboard.jpg.jpg?raw=true)
 
 ---
 
