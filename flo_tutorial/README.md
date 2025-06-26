@@ -29,7 +29,7 @@ The calendar shows your current cycle and upcoming dates.
 
 ## 🩸 Step 4: Log Your Period
 Tap on a date to enter your period flow, pain, and other symptoms.  
-![Log Period](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_log_periof.jpg.jpg?raw=true)
+![Log Period](https://github.com/Onomzy447/flo-tutorial/blob/main/screenshots/flo_log_periof.jpg.jpg?raw=true)
 
 ---
 
