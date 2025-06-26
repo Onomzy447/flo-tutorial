@@ -10,7 +10,7 @@ This tutorial is for beginners who want to learn how to use the *Flo App*, a fre
 ## 📱 Step 1: Download Flo App
 Go to your Play Store or App Store and search for "Flo App".  
 Tap install and open the app.  
-![Download Flo](https://github.com/Onomzy447/flo-tutorial/blob/main/screenshots/flo_playstore.jpg.jpg?raw=true)
+![Download Flo](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_tutorial/screenshots/flo_playstore.jpg.jpg?raw=true)
 
 ---
 
