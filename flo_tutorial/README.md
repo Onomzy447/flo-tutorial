@@ -58,7 +58,7 @@ flo-tutorial/ ├── README.md └── screenshots/ ├── flo_calendar.
 ---
 
 ## 🧾 Conclusion
-The Flo App is a simple and helpful way to manage your period, fertility, and health. With this guide and your screenshots, beginners can learn to use Flo in minutes.
+The Flo App is a simple and helpful way to manage your period, fertility, and health. With this guide and screenshots, beginners can learn to use Flo in minutes.
 
 ---
 
