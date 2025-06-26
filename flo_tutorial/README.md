@@ -41,7 +41,7 @@ Flo shows your ovulation day and fertile window in the calendar.
 
 ## 🧠 Step 6: Read Daily Tips
 Flo provides articles and health tips to guide your cycle and lifestyle.  
-![Health Tips](https://github.com/Onomzy447/flo-tutorial/blob/main/screenshots/flo_insghts.jpg.jpg?raw=true)
+![Health Tips](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_tutorial/screenshots/flo_insghts.jpg.jpg?raw=true)
 
 ---
 
