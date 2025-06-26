@@ -35,7 +35,7 @@ Tap on a date to enter your period flow, pain, and other symptoms.
 
 ## 🐣 Step 5: Check Ovulation Predictions
 Flo shows your ovulation day and fertile window in the calendar.  
-![Ovulation](screenshots/flo_ovulation.jpg)
+![Ovulation](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_ovulation.jpg.jpg?raw=true)
 
 ---
 
