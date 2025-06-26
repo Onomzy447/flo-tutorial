@@ -23,7 +23,7 @@ You can view your calendar, cycle predictions, and more.
 
 ## 🗓 Step 3: View Your Calendar
 The calendar shows your current cycle and upcoming dates.  
-![Calendar](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_calender.jpg.jpg?raw=true)
+![Calendar](https://github.com/Onomzy447/flo-tutorial/blob/main/flo_tutorial/screenshots/flo_calender.jpg.jpg?raw=true)
 
 ---
 
