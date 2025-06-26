@@ -1,0 +1,74 @@
+
+
+# 🌸 Flo App Beginner Tutorial: Track Your Period Easily
+
+## 📌 Introduction
+This tutorial is for beginners who want to learn how to use the *Flo App*, a free period and ovulation tracker for women. Flo helps track your menstrual cycle, fertility window, and provides daily health tips.
+
+---
+
+## 📱 Step 1: Download Flo App
+Go to your Play Store or App Store and search for "Flo App".  
+Tap install and open the app.  
+![Download Flo](screenshots/flo_playstore.jpg)
+
+---
+
+## 🏠 Step 2: Explore the Dashboard
+This is the main screen when you open the app.  
+You can view your calendar, cycle predictions, and more.  
+![Dashboard](screenshots/flo_dashboard.jpg)
+
+---
+
+## 🗓 Step 3: View Your Calendar
+The calendar shows your current cycle and upcoming dates.  
+![Calendar](screenshots/flo_calendar.jpg)
+
+---
+
+## 🩸 Step 4: Log Your Period
+Tap on a date to enter your period flow, pain, and other symptoms.  
+![Log Period](screenshots/flo_log_period.jpg)
+
+---
+
+## 🐣 Step 5: Check Ovulation Predictions
+Flo shows your ovulation day and fertile window in the calendar.  
+![Ovulation](screenshots/flo_ovulation.jpg)
+
+---
+
+## 🧠 Step 6: Read Daily Tips
+Flo provides articles and health tips to guide your cycle and lifestyle.  
+![Health Tips](screenshots/flo_tips.jpg)
+
+---
+
+## 📚 Step 7: Explore Flo Insights
+You can also take quizzes, track mood, and get advice.  
+![Insights](screenshots/flo_insights.jpg)
+
+---
+
+## 📁 Project Folder Structure
+
+flo-tutorial/ ├── README.md └── screenshots/ ├── flo_calendar.jpg ├── flo_dashboard.jpg ├── flo_insights.jpg ├── flo_log_period.jpg ├── flo_ovulation.jpg ├── flo_playstore.jpg └── flo_tips.jpg
+
+---
+
+## 🧾 Conclusion
+The Flo App is a simple and helpful way to manage your period, fertility, and health. With this guide and your screenshots, beginners can learn to use Flo in minutes.
+
+---
+
+## 🔍 SEO Keywords
+Flo App, How to use Flo App, Period Tracker App, Ovulation Tracker, Women’s Health App, Beginner Flo Tutorial
+
+
+---
+
+
+
+
+ 
